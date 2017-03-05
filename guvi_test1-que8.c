@@ -8,5 +8,5 @@ int main(){
 	for(i=0; i<=n; i++)
 		sum+=i;
 	
-	printf("%d is sum of n natural numbers", sum);
+	printf("%d is sum of %d natural numbers", sum, n);
 }
